@@ -34,6 +34,8 @@ You can use my email, or any of the social media accounts below.
 
 Depending on your intent, you could also contact me from Xbox Live with my handle `Mevzubahis` 😁.
 
+Also, there is no such thing as premium membership in GitHub (look at my status). Just joking.
+
 [Phoenix Framework]: https://github.com/phoenixframework/phoenix
 [Ecto]: https://github.com/elixir-ecto/ecto
 [ExUnit]: https://github.com/elixir-lang/elixir/blob/master/lib/ex_unit/lib/ex_unit.ex
