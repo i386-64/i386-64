@@ -13,7 +13,7 @@ I have expertise and production-level software development experience in the fol
 - **C++ (with C++17)**: developed online game networking, embedded systems software for [Arduino Due]
 - **JavaScript, ECMAScript**: developed REST APIs using [hapi], [express], [mocha], [sinon], [chai], [node-postgres], front-end applications for web browsers and KaiOS devices using [react], [redux], [redux-saga], [reselect], [immer], [enzyme], [jest], [Webpack]
 - **Java and Kotlin**: developed REST APIs using [Spring Framework], [Maven], [Gradle], [Dropwizard], JavaFX applications using [TornadoFX]
-- **Objective-C, Objective-C++ and Swift**: developed iOS and macOS applications using [AFNetworking] and [Alamofire], [Cocoapods], [Carthage], [Core Data].
+- **Objective-C, Objective-C++ and Swift**: developed iOS and macOS applications using [AFNetworking] and [Alamofire], [Cocoapods], [Carthage], [Core Data]
 - **Shell scripting languages (i.e. *bash*, *zsh*)**
 
 I also know how to use the following languages but I don't have any production-level experience with them.
@@ -21,6 +21,12 @@ I also know how to use the following languages but I don't have any production-l
 - **C#**
 - **F#**
 - **Python**
+
+### How can you contact me?
+
+You can use my email, or [Twitter](https://twitter.com/i386_64) *- disclaimer: I sometimes share some cutie stuff here*, [LinkedIn](https://www.linkedin.com/in/bu%C4%9Fra-ekuklu-0b941aa0/). 
+
+Depending on your intent, you could also contact me from Xbox Live with my handle `Mevzubahis`.
 
 [Phoenix Framework]: https://github.com/phoenixframework/phoenix
 [Ecto]: https://github.com/elixir-ecto/ecto
