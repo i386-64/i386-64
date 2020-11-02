@@ -1,4 +1,4 @@
-## Hello, folks 👋
+## Hello, people 👋
 
 I'm Buğra Ekuklu, a polyglot distributed systems software engineer living in [İstanbul, Türkiye](https://www.wikiwand.com/en/Istanbul).
 
@@ -24,9 +24,15 @@ I also know how to use the following languages but I don't have any production-l
 
 ### How can you contact me?
 
-You can use my email, or [Twitter](https://twitter.com/i386_64) *- disclaimer: I sometimes share some cutie stuff here*, [LinkedIn](https://www.linkedin.com/in/bu%C4%9Fra-ekuklu-0b941aa0/). 
+You can use my email, or any of the social media accounts below.
 
-Depending on your intent, you could also contact me from Xbox Live with my handle `Mevzubahis`.
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/i386_64)
+[![Reddit](https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Mevzubahis)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bu%C4%9Fra-ekuklu-0b941aa0/)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/905419013151)
+[![StackOverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/3407594/bu%c4%9fra-ekuklu)
+
+Depending on your intent, you could also contact me from Xbox Live with my handle `Mevzubahis` 😁.
 
 [Phoenix Framework]: https://github.com/phoenixframework/phoenix
 [Ecto]: https://github.com/elixir-ecto/ecto
