@@ -1,4 +1,4 @@
-## Hello, folks
+## Hello, folks 👋
 
 I'm Buğra Ekuklu, a polyglot distributed systems software engineer living in [İstanbul, Türkiye](https://www.wikiwand.com/en/Istanbul).
 
