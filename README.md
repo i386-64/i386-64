@@ -8,7 +8,7 @@ You can find my [résumé](https://raw.githubusercontent.com/Chatatata/Chatatata
 
 I have expertise and production-level software development experience in the following programming languages.
 
-- **Elixir and Erlang**: developed REST APIs using [Phoenix Framework], [ecto], [exunit], and lots of other libraries
+- **Elixir and Erlang**: developed REST APIs using [Phoenix Framework], [Ecto], [ExUnit], and lots of other libraries
 - **C**: developed embedded systems software for [nRF51822] bare-metal BLE SoC
 - **C++ (with C++17)**: developed online game networking, embedded systems software for [Arduino Due]
 - **JavaScript, ECMAScript**: developed REST APIs using [hapi], [express], [mocha], [sinon], [chai], [node-postgres], front-end applications for web browsers and KaiOS devices using [react], [redux], [redux-saga], [reselect], [immer], [enzyme], [jest], [Webpack]
