@@ -2,7 +2,7 @@
 
 I'm Buğra Ekuklu, a polyglot distributed systems software engineer living in [İstanbul, Türkiye](https://www.wikiwand.com/en/Istanbul).
 
-You can find my [résumé](https://raw.githubusercontent.com/Chatatata/Chatatata/main/Resume.pdf) and [portfolio](https://raw.githubusercontent.com/Chatatata/Chatatata/main/Portfolio.pdf) here.
+You can find my [résumé](https://raw.githubusercontent.com/i386-64/i386-64/main/Resume.pdf) and [portfolio](https://raw.githubusercontent.com/i386-64/i386-64/main/Portfolio.pdf) here.
 
 ### What do I do? 
 
