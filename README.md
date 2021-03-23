@@ -32,6 +32,10 @@ You can use my email, or any of the social media accounts below.
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/905419013151)
 [![StackOverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/3407594/bu%c4%9fra-ekuklu)
 
+>> **WTF is `i386_64`, dude?**
+>> 
+>> Who simply doesn't adore lovely `80386` ISA? `x86_64` is the untold `i386`.
+
 Depending on your intent, you could also contact me from Xbox Live with my handle `Mevzubahis` 😁.
 
 Also, there is no such thing as premium membership in GitHub (look at my status). Just joking.
