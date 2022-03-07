@@ -1,8 +1,8 @@
 ## Hello, people 👋
 
-I'm Buğra Ekuklu, a polyglot distributed systems software engineer living in [Surrey, UK](https://en.wikipedia.org/wiki/England).
+I'm Buğra Ekuklu, a software engineer living in [Surrey, UK](https://en.wikipedia.org/wiki/England).
 
-You can find my [résumé](https://raw.githubusercontent.com/i386-64/i386-64/main/Resume.pdf) and [portfolio](https://raw.githubusercontent.com/i386-64/i386-64/main/Portfolio.pdf) here.
+You can find my [résumé](https://raw.githubusercontent.com/i386-64/i386-64/main/Resume.pdf) here.
 
 ### What do I do? 
 
