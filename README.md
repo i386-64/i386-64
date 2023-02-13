@@ -2,9 +2,9 @@
 
 I'm Buğra Ekuklu, a software engineer living in [Surrey, UK](https://en.wikipedia.org/wiki/England).
 
-### What do I do? 
+### What do I do?
 
-I have expertise and production-level software development experience in the following programming languages.
+It depends, but you can mostly find me developing applications in one of these technologies.
 
 - **Elixir and Erlang**: developed REST APIs using [Phoenix Framework], [Ecto], [ExUnit], and lots of other libraries
 - **C**: developed embedded systems software for [nRF51822] bare-metal BLE SoC
@@ -14,7 +14,7 @@ I have expertise and production-level software development experience in the fol
 - **Objective-C, Objective-C++ and Swift**: developed iOS and macOS applications using [AFNetworking] and [Alamofire], [Cocoapods], [Carthage], [Core Data]
 - **Shell scripting languages (i.e. *bash*, *zsh*)**
 
-I also know how to use the following languages but I don't have any production-level experience with them.
+I also know how to kill the spiders with these languages but I don't have any professional experience with them (although I have some, but let's ignore).
 
 - **C#**
 - **F#**
