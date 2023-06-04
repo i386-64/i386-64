@@ -1,4 +1,4 @@
-## Hello, people 👋
+## Hello, folks 👋
 
 I'm Buğra Ekuklu, a software engineer living in [Surrey, UK](https://en.wikipedia.org/wiki/England).
 
