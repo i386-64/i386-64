@@ -7,14 +7,14 @@ I'm Buğra Ekuklu, a software engineer living in [Surrey, UK](https://en.wikiped
 It depends, but you can mostly find me developing applications in one of these technologies.
 
 - **Elixir and Erlang**: developed REST APIs using [Phoenix Framework], [Ecto], [ExUnit], and lots of other libraries
+- **Java and Kotlin**: developed REST APIs using [Spring Framework], [Maven], [Gradle], [Dropwizard], JavaFX applications using [TornadoFX]
 - **C**: developed embedded systems software for [nRF51822] bare-metal BLE SoC
 - **C++ (with C++17)**: developed online game networking, embedded systems software for [Arduino Due]
 - **JavaScript, ECMAScript**: developed REST APIs using [hapi], [express], [mocha], [sinon], [chai], [node-postgres], front-end applications for web browsers and KaiOS devices using [react], [redux], [redux-saga], [reselect], [immer], [enzyme], [jest], [Webpack]
-- **Java and Kotlin**: developed REST APIs using [Spring Framework], [Maven], [Gradle], [Dropwizard], JavaFX applications using [TornadoFX]
 - **Objective-C, Objective-C++ and Swift**: developed iOS and macOS applications using [AFNetworking] and [Alamofire], [Cocoapods], [Carthage], [Core Data]
 - **Shell scripting languages (i.e. *bash*, *zsh*)**
 
-I also know how to kill the spiders with these languages but I don't have any professional experience with them (although I have some, but let's ignore).
+I also know how to kill spiders with these languages but I don't have any professional experience with them (although I have some, but let's ignore).
 
 - **C#**
 - **F#**
