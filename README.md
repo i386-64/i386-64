@@ -25,9 +25,8 @@ I also know how to kill spiders with these languages but I don't have any profes
 You can use my email, or any of the social media accounts below.
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/i386_64)
-[![Reddit](https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Mevzubahis)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bu%C4%9Fra-ekuklu-0b941aa0/)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/905419013151)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/447775167107)
 [![StackOverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/3407594/bu%c4%9fra-ekuklu)
 
 [Phoenix Framework]: https://github.com/phoenixframework/phoenix
