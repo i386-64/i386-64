@@ -1,6 +1,6 @@
 ## Hello, folks 👋
 
-I'm Buğra Ekuklu, a software engineer living in [Surrey, UK](https://en.wikipedia.org/wiki/England).
+I'm Buğra Ekuklu, a software engineer living in the [UK](https://en.wikipedia.org/wiki/England).
 
 ### What do I do?
 
